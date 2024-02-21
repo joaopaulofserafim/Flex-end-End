@@ -1,0 +1,59 @@
+.Bodyy{background-color: rgb(4, 4, 92);
+text-align: center;}
+
+
+.tituloDois{color: rgb(255, 255, 255);
+text-align: left;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: xx-large;
+font-weight: bolder;
+font-variant: small-caps;
+font-style: italic;}
+
+.titulo1{color: white;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 80px;
+    font-weight: bolder;
+    font-variant: small-caps;
+    font-style: italic;
+margin-top: 10px;}
+
+.textoUm{color: white;
+text-align: left;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;}
+
+.textoDois{color: white;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;}
+
+    .topics{color: white;
+        text-align: left;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;}
+
+
+        div{text-align: center;margin-top: 60px;}
+
+        .textoTres{color: white;
+            text-align: left;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 15px;}
+
+            .textoQuatro{color: white;
+                text-align: left;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 15px;
+            margin: -18px;}
+
+            .fotoDois{ text-align: center;
+            margin-top: 50px;}
+
+            .leocapa{ text-align: center;
+                margin-top: 50px;}
+
+                .estiloTextoUm{background-color: rgb(198, 200, 219); color: white; padding: 0px;}
+                .s1{color: rgb(0, 255, 255); font-weight: bolder;}
+                .s2{color: aqua; font-weight: bolder;}
